@@ -2,3 +2,5 @@ Guardar cambios en el repositorio
 GIT STATUS
 GIT ADD
 GIT COMMIT
+
+Siguiente paso es enviar cambios al repositorio con GIT PUSH
