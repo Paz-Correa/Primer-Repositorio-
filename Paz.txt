@@ -1,0 +1,4 @@
+Guardar cambios en el repositorio
+GIT STATUS
+GIT ADD
+GIT COMMIT
